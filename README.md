@@ -47,6 +47,24 @@ Developed by: RegisterNumber:*/
 **Timing Diagram**
 
 **Result:**
+Experiment 2
+Function 1:
+
+<img width="1918" height="1079" alt="RTL VIEWER EX2 I" src="https://github.com/user-attachments/assets/23cb0583-d7e1-4b81-bbc1-acb969fc6464" />
+
+
+
+
+<img width="1919" height="1079" alt="WAVEFORM EX 2 I" src="https://github.com/user-attachments/assets/d949c9c0-1224-4613-b335-6c508fb0cde3" />
+
+
+Experiment 2
+Function 2:
+<img width="1918" height="1079" alt="RTL VIEWER EX2 II" src="https://github.com/user-attachments/assets/8b6bfbcd-01d7-4b0b-a2e3-5bb967468756" />
+
+
+
+
+<img width="1919" height="1079" alt="WAVEFORM EX2 II" src="https://github.com/user-attachments/assets/aa337414-93f6-4384-b4f5-a866eda787a0" />
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
